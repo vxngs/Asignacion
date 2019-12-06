@@ -1,0 +1,23 @@
+.container{
+	background-color: rgba(0,0,0,0.3);
+	margin-top: 10%;
+	border-radius: 10px;
+	width: 600px;
+	height: 300px;
+	color: white;
+}
+
+.input-field{
+	margin-top: 5%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.btn{
+	border-radius: 10px;
+	margin-right: 75%
+}
+
+form{
+	color: white;
+}
